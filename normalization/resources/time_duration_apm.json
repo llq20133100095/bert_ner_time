@@ -1,0 +1,338 @@
+{
+    "清晨": {
+        "start": "XXXX-XX-XX-04:00:00",
+        "end": "XXXX-XX-XX-07:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "早上": {
+        "start": "XXXX-XX-XX-04:00:00",
+        "end": "XXXX-XX-XX-11:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "晚上": {
+        "start": "XXXX-XX-XX-18:00:00", 
+        "end": "XXXX-XX-XX-23:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "凌晨": {
+        "start": "XXXX-XX-XX-00:00:00", 
+        "end": "XXXX-XX-XX-05:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "早晨": {
+        "start": "XXXX-XX-XX-06:00:00", 
+        "end": "XXXX-XX-XX-08:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "中午": {
+        "start": "XXXX-XX-XX-11:00:00", 
+        "end": "XXXX-XX-XX-13:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "下午": {
+        "start": "XXXX-XX-XX-14:00:00", 
+        "end": "XXXX-XX-XX-17:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "晨": {
+        "start": "XXXX-XX-XX-06:00:00", 
+        "end": "XXXX-XX-XX-08:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "夜晚": {
+        "start": "XXXX-XX-XX-18:00:00", 
+        "end": "XXXX-XX-XX-05:59:59", 
+        "scale": "daily", 
+        "offset": "1d"
+    }, 
+    "深夜": {
+        "start": "XXXX-XX-XX-23:00:00", 
+        "end": "XXXX-XX-XX-00:59:59", 
+        "scale": "daily", 
+        "offset": "1d"
+    }, 
+    "上午": {
+        "start": "XXXX-XX-XX-06:00:00", 
+        "end": "XXXX-XX-XX-11:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "大清早": {
+        "start": "XXXX-XX-XX-06:00:00", 
+        "end": "XXXX-XX-XX-07:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "晚间": {
+        "start": "XXXX-XX-XX-18:00:00", 
+        "end": "XXXX-XX-XX-23:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "半夜": {
+        "start": "XXXX-XX-XX-23:00:00", 
+        "end": "XXXX-XX-XX-00:59:59", 
+        "scale": "daily", 
+        "offset": "1d"
+    }, 
+    "一大早": {
+        "start": "XXXX-XX-XX-06:00:00", 
+        "end": "XXXX-XX-XX-07:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "一早": {
+        "start": "XXXX-XX-XX-06:00:00", 
+        "end": "XXXX-XX-XX-08:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "傍晚": {
+        "start": "XXXX-XX-XX-18:00:00", 
+        "end": "XXXX-XX-XX-22:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "清早": {
+        "start": "XXXX-XX-XX-06:00:00", 
+        "end": "XXXX-XX-XX-07:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "晚": {
+        "start": "XXXX-XX-XX-18:00:00", 
+        "end": "XXXX-XX-XX-23:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "昨晚": {
+        "start": "XXXX-XX-XX-18:00:00", 
+        "end": "XXXX-XX-XX-23:59:59", 
+        "scale": "daily", 
+        "offset": "sub_1d"
+    }, 
+    "明晚": {
+        "start": "XXXX-XX-XX-18:00:00", 
+        "end": "XXXX-XX-XX-23:59:59", 
+        "scale": "daily", 
+        "offset": "add_1d"
+    }, 
+    "午后": {
+        "start": "XXXX-XX-XX-12:00:00",
+        "end": "XXXX-XX-XX-14:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "白天": {
+        "start": "XXXX-XX-XX-06:00:00", 
+        "end": "XXXX-XX-XX-17:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "夜间": {
+        "start": "XXXX-XX-XX-23:00:00", 
+        "end": "XXXX-XX-XX-05:59:59", 
+        "scale": "daily", 
+        "offset": "1d"
+    }, 
+    "夜": {
+        "start": "XXXX-XX-XX-23:00:00", 
+        "end": "XXXX-XX-XX-05:59:59", 
+        "scale": "daily", 
+        "offset": "1d"
+    }, 
+    "大晚上": {
+        "start": "XXXX-XX-XX-23:00:00", 
+        "end": "XXXX-XX-XX-05:59:59", 
+        "scale": "daily", 
+        "offset": "1d"
+    }, 
+    "黄昏": {
+        "start": "XXXX-XX-XX-17:00:00", 
+        "end": "XXXX-XX-XX-18:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "黎明": {
+        "start": "XXXX-XX-XX-05:00:00", 
+        "end": "XXXX-XX-XX-06:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "傍晚时分": {
+        "start": "XXXX-XX-XX-18:00:00", 
+        "end": "XXXX-XX-XX-22:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "早": {
+        "start": "XXXX-XX-XX-06:00:00", 
+        "end": "XXXX-XX-XX-08:59:59", 
+        "scale": "daily", 
+        "offset": 0
+    }, 
+    "月底": {
+        "start": "XXXX-XX-21-XX:XX:XX", 
+        "end": "XXXX-XX-31-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "月末": {
+        "start": "XXXX-XX-26-XX:XX:XX", 
+        "end": "XXXX-XX-31-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "中旬": {
+        "start": "XXXX-XX-11-XX:XX:XX", 
+        "end": "XXXX-XX-20-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "下旬": {
+        "start": "XXXX-XX-21-XX:XX:XX", 
+        "end": "XXXX-XX-31-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "上半月": {
+        "start": "XXXX-XX-01-XX:XX:XX", 
+        "end": "XXXX-XX-15-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "上旬": {
+        "start": "XXXX-XX-01-XX:XX:XX", 
+        "end": "XXXX-XX-10-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "月初": {
+        "start": "XXXX-XX-01-XX:XX:XX", 
+        "end": "XXXX-XX-10-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "月中": {
+        "start": "XXXX-XX-11-XX:XX:XX", 
+        "end": "XXXX-XX-20-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "中下旬": {
+        "start": "XXXX-XX-11-XX:XX:XX", 
+        "end": "XXXX-XX-31-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "中旬末": {
+        "start": "XXXX-XX-16-XX:XX:XX", 
+        "end": "XXXX-XX-20-XX:XX:XX", 
+        "scale": "monthly", 
+        "offset": 0
+    }, 
+    "夏季": {
+        "start": "XXXX-06-15-XX:XX:XX", 
+        "end": "XXXX-09-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "冬季": {
+        "start": "XXXX-12-15-XX:XX:XX", 
+        "end": "XXXX-03-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": "1y"
+    }, 
+    "秋冬季节": {
+        "start": "XXXX-09-15-XX:XX:XX", 
+        "end": "XXXX-03-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": "1y"
+    }, 
+    "年底": {
+        "start": "XXXX-12-01-XX:XX:XX", 
+        "end": "XXXX-12-31-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "年初": {
+        "start": "XXXX-01-01-XX:XX:XX", 
+        "end": "XXXX-01-31-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "秋季": {
+        "start": "XXXX-09-15-XX:XX:XX", 
+        "end": "XXXX-12-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "年末": {
+        "start": "XXXX-12-01-XX:XX:XX", 
+        "end": "XXXX-12-31-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "下半年": {
+        "start": "XXXX-07-01-XX:XX:XX", 
+        "end": "XXXX-12-31-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "春天": {
+        "start": "XXXX-03-15-XX:XX:XX", 
+        "end": "XXXX-06-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "夏天": {
+        "start": "XXXX-06-15-XX:XX:XX", 
+        "end": "XXXX-09-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "暑假": {
+        "start": "XXXX-07-01-XX:XX:XX", 
+        "end": "XXXX-08-31-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "寒冬": {
+        "start": "XXXX-12-15-XX:XX:XX", 
+        "end": "XXXX-02-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "冬天": {
+        "start": "XXXX-12-15-XX:XX:XX", 
+        "end": "XXXX-03-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "秋天": {
+        "start": "XXXX-09-15-XX:XX:XX", 
+        "end": "XXXX-12-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "上半年": {
+        "start": "XXXX-01-01-XX:XX:XX", 
+        "end": "XXXX-06-30-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": 0
+    }, 
+    "秋冬季": {
+        "start": "XXXX-09-15-XX:XX:XX", 
+        "end": "XXXX-03-14-XX:XX:XX", 
+        "scale": "yearly", 
+        "offset": "1y"
+    }
+}

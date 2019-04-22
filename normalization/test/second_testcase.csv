@@ -1,0 +1,6 @@
+﻿entity,type,abs_rel,is_refer,is_freq,basetime,result
+1分50秒前后,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,50
+2014年1月1日0时0分38秒,time_point,absolute,FALSE,FALSE,,38
+下一秒,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+上一秒,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,-1
+1分50秒前后,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,50

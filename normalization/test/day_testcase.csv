@@ -1,0 +1,44 @@
+﻿entity,type,abs_rel,basetime,result
+10月23日,time_point,relative,2018-11-01 12:00:00,23
+后天,time_point,relative,2018-11-01 12:00:00,2
+今天下午13:58,time_point,relative,2018-11-01 12:00:00,0
+2013年12月16日,time_point,absolute,,16
+当天,time_point,relative,2018-11-01 12:00:00,0
+1月16日,time_point,relative,2018-11-01 12:00:00,16
+下周六,time_point,relative,2018-11-01 12:00:00,9
+1月8日,time_point,relative,2018-11-01 12:00:00,8
+前天,time_point,relative,2018-11-01 12:00:00,-2
+昨日,time_point,relative,2018-11-01 12:00:00,-1
+20日,time_point,relative,2018-11-01 12:00:00,20
+春运第一天,time_point,relative,2018-11-01 12:00:00,1
+前天,time_point,relative,2018-11-01 12:00:00,-2
+昨天,time_point,relative,2018-11-01 12:00:00,-1
+今天,time_point,relative,2018-11-01 12:00:00,0
+12月30日,time_point,relative,2018-11-01 12:00:00,30
+10月7日左右,time_point,relative,2018-11-01 12:00:00,7
+当日,time_point,relative,2018-11-01 12:00:00,0
+1月8日下午5时许,time_point,relative,2018-11-01 12:00:00,8
+2013年12月31日,time_point,absolute,,31
+2014年1月8日,time_point,absolute,,8
+昨日上午10点,time_point,relative,2018-11-01 12:00:00,-1
+昨天,time_point,relative,2018-11-01 12:00:00,-1
+当日,time_point,relative,2018-11-01 12:00:00,0
+17日,time_point,relative,2018-11-01 12:00:00,17
+截至2014年1月9日,time_point,absolute,,9
+周日,time_point,relative,2018-11-01 12:00:00,3
+截止2014年1月22日18时,time_point,absolute,,22
+13日,time_point,relative,2018-11-01 12:00:00,13
+这个星期六,time_point,relative,2018-11-01 12:00:00,2
+当日,time_point,relative,2018-11-01 12:00:00,0
+当日14时52分,time_point,relative,2018-11-01 12:00:00,0
+7日,time_point,relative,2018-11-01 12:00:00,7
+当日,time_point,relative,2018-11-01 12:00:00,0
+周一,time_point,relative,2018-11-01 12:00:00,-3
+1月22日,time_point,relative,2018-11-01 12:00:00,22
+次日凌晨1时许,time_point,relative,2018-11-01 12:00:00,1
+昨天,time_point,relative,2018-11-01 12:00:00,-1
+明天,time_point,relative,2018-11-01 12:00:00,1
+下周四,time_point,relative,2018-11-01 12:00:00,7
+周二,time_point,relative,2018-11-01 12:00:00,-2
+12日下午4时许,time_point,relative,2018-11-01 12:00:00,12
+1月7日,time_point,relative,2018-11-01 12:00:00,7

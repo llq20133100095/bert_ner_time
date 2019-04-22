@@ -1,0 +1,39 @@
+﻿entity,type,abs_rel,is_refer,is_freq,basetime,start,end
+2014年一季度,time_period,absolute,FALSE,FALSE,,2014年1月1日,2014年3月31日
+下一季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2019年1月1日,2019年3月31日
+一季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年1月1日,2018年3月31日
+2013年三季度,time_period,absolute,FALSE,FALSE,,2013年7月1日,2013年9月30日
+上季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年7月1日,2018年9月30日
+一季度末,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,,
+前三季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年1月1日,2018年9月30日
+2013年第四季度,time_period,absolute,FALSE,FALSE,,2013年10月1日,2013年12月30日
+这个季度,time_period,relative,TRUE,FALSE,2018-11-01 12:00:00,2018年10月1日,2018年12月30日
+二季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年4月1日,2018年6月30日
+三季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年7月1日,2018年9月30日
+第三季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年7月1日,2018年9月30日
+第四季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年10月1日,2018年12月30日
+今年二季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年4月1日,2018年6月30日
+一季度,time_duration,null,FALSE,FALSE,,2018年1月1日,2018年3月31日
+2013年第四季度,time_period,absolute,FALSE,FALSE,,2013年10月1日,2013年12月30日
+去年第四季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2017年10月1日,2017年12月30日
+2013年第三季度,time_period,absolute,FALSE,FALSE,,2013年7月1日,2013年9月30日
+今年第二季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年4月1日,2018年6月30日
+下个季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2019年1月1日,2019年3月31日
+第一季度,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年1月1日,2018年3月31日
+三季度,time_duration,null,FALSE,FALSE,,2018年7月1日,2018年9月30日
+春天,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年2月1日,2018年4月30日
+春季,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年2月1日,2018年4月30日
+夏天,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年5月1日,2018年7月31日
+每年夏天,time_prper,relative,FALSE,TRUE,2018-11-01 12:00:00,,
+夏季,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年5月1日,2018年7月31日
+那夏天,time_prper,relative,TRUE,FALSE,2018-11-01 12:00:00,2018年5月1日,2018年7月31日
+秋天,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年8月1日,2018年10月30日
+2013年秋季,time_prper,absolute,FALSE,FALSE,,2018年8月1日,2018年10月30日
+冬天,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年11月1日,2019年1月30日
+冬季,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,2018年11月1日,2019年1月30日
+今冬,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,,
+冬月,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,,
+冬日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,,
+冬日,time_prper,relative,FALSE,FALSE,2018-11-01 12:00:00,,
+冬夜,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,,
+今冬,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,,

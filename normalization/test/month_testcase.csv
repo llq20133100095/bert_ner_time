@@ -1,0 +1,66 @@
+﻿entity,type,abs_rel,is_refer,is_freq,basetime,result
+这月,time_point,relative,TRUE,FALSE,2018-11-01 12:00:00,11
+本月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,11
+12月2日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,12
+一九九二年二月,time_point,absolute,FALSE,FALSE,,2
+去年12月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,12
+1月6日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+6月14日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,6
+1月13日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+2014年1月10日,time_point,absolute,FALSE,FALSE,,1
+1978年9月,time_point,absolute,FALSE,FALSE,,9
+从2012年7月,time_point,absolute,FALSE,FALSE,,7
+上个月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,10
+1月10日9点,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+1月20日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+5月10日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,5
+约1个月后,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,12
+1月5日上午9时许,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+2013年11月28日,time_point,absolute,FALSE,FALSE,,11
+1月7日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+到1月8日为止,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+1月8日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+1月7日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+本月14日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,11
+1月23/25/26/29日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+2月3/8/12日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,2
+1月9日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+2月8日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,2
+2009年8月,time_point,absolute,FALSE,FALSE,,8
+12月份,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,12
+11月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,11
+2014年8月22日,time_point,absolute,FALSE,FALSE,,8
+截至9月28日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,9
+截至1月21日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+本月4日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,11
+前年9月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,9
+1月13日下午15时许,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+截至2013年12月4日,time_point,absolute,FALSE,FALSE,,12
+10月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,10
+12月17日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,12
+1964年6月,time_point,absolute,FALSE,FALSE,,6
+2007年1月,time_point,absolute,FALSE,FALSE,,1
+截止12月26日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,12
+十月初五,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,10
+这个月,time_point,relative,TRUE,FALSE,2018-11-01 12:00:00,11
+1月8日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+3月份,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,3
+2002年8月16日,time_point,absolute,FALSE,FALSE,,8
+2014年1月12日后,time_point,absolute,FALSE,FALSE,,1
+截止时间1月6日中午,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+截止1月9日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+截至2013年11月,time_point,absolute,FALSE,FALSE,,11
+2007年5月,time_point,absolute,FALSE,FALSE,,5
+2008年3月20日,time_point,absolute,FALSE,FALSE,,3
+2013年8月13日,time_point,absolute,FALSE,FALSE,,8
+2013年10月,time_point,absolute,FALSE,FALSE,,10
+2012年9月左右,time_point,absolute,FALSE,FALSE,,9
+2014年1月,time_point,absolute,FALSE,FALSE,,1
+今年五月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,5
+下个月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,12
+去年4月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,4
+2013年9月,time_point,absolute,FALSE,FALSE,,9
+1月5日,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+3个月前,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,8
+2013年12月9日,time_point,absolute,FALSE,FALSE,,12
+截止12月,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,12

@@ -1,0 +1,15 @@
+﻿entity,type,abs_rel,is_refer,is_freq,basetime,result
+从22日下午14时30分许,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,30
+截至7日18时30分,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,30
+周六下午的4点33分,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,33
+昨日早晨9时02分,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,2
+18时40分左右,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,40
+1分50秒前后,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,1
+截至20日晚23时15分,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,15
+1月15日上午8点48分 ,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,48
+1月15日8时47分,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,47
+1月8日17时30分左右,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,30
+2013年12月31日11时52分,time_point,absolute,FALSE,FALSE,,52
+2014年1月1日0时0分38秒,time_point,absolute,FALSE,FALSE,,0
+3点20分,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,20
+23点5分5秒,time_point,relative,FALSE,FALSE,2018-11-01 12:00:00,5

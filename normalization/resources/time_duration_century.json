@@ -1,0 +1,26 @@
+{
+    "世纪初期": {
+        "start": "XX00-XX-XX-XX:XX:XX", 
+        "end": "XX29-XX-XX-XX:XX:XX", 
+        "scale": "centuryly", 
+        "offset": 0
+    }, 
+    "世纪中期": {
+        "start": "XX30-XX-XX-XX:XX:XX", 
+        "end": "XX69-XX-XX-XX:XX:XX", 
+        "scale": "centuryly", 
+        "offset": 0
+    }, 
+    "世纪末": {
+        "start": "XX70-XX-XX-XX:XX:XX", 
+        "end": "XX99-XX-XX-XX:XX:XX", 
+        "scale": "centuryly", 
+        "offset": 0
+    }, 
+    "年代初期": {
+        "start": "XXX0-XX-XX-XX:XX:XX", 
+        "end": "XXX3-XX-XX-XX:XX:XX", 
+        "scale": "centuryly", 
+        "offset": 0
+    }
+}

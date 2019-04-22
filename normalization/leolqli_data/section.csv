@@ -1,0 +1,18 @@
+﻿entity,type,abs_rel,is_refer,is_freq,basetime,start,end
+一月中旬到一月下旬,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018/1/10 0:00,2018/1/31 23:59
+1964年8月29日到9月29日,time_period,absolute,FALSE,FALSE,,1964/8/29 0:00,1964/9/29 23:59
+2O05年至2013年3月期间,time_period,absolute,FALSE,FALSE,,2005/1/1 0:00,2013/3/31 23:59
+上午9:00至12:00,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018/11/1 9:00,2018/11/1 12:00
+下午13:00至17:00,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018/11/1 13:00,2018/11/1 17:00
+1995至1998年期间,time_period,absolute,FALSE,FALSE,,1995/1/1 4:00,1998/12/31 23:59
+8日白天到10日夜间,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018/11/8 6:00,2018/11/10 23:59
+从2014年1月2日至6月30日,time_period,absolute,FALSE,FALSE,,2014/1/2 0:00,2014/6/30 23:59
+从2014年1月1日至2015年12月31日,time_period,absolute,FALSE,FALSE,,2014/1/1 0:00,2015/12/31 23:59
+从2011年5月至2013年底,time_period,absolute,FALSE,FALSE,,2011/5/1 0:00,2013/12/31 23:59
+从2013年12月27日到今年1月6日,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2013/12/27 0:00,2018/1/6 23:59
+2003年至2011年间,time_period,absolute,FALSE,FALSE,,2003/1/1 0:00,2011/12/30 23:59
+2013年12月下旬至2014年6月,time_period,absolute,FALSE,FALSE,,2013/12/20 0:00,2014/6/30 23:59
+15日晚间到17日上午,time_period,relative,FALSE,FALSE,2018-11-01 12:00:00,2018/11/15 18:00,2018/11/17 11:59
+2012年8月到2013年7月,time_period,absolute,FALSE,FALSE,,2012/8/1 0:00,2013/7/31 23:59
+1996年到1998年期间,time_period,absolute,FALSE,FALSE,,1996/1/1 0:00,1998/12/31 23:59
+2005年至2013年,time_period,absolute,FALSE,FALSE,,2005/1/1 0:00,2013/12/31 23:59

@@ -1,0 +1,202 @@
+﻿entity,type,abs_rel,is_refer,is_freq,basetime,start,end
+第四季度,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/10/1 0:00,2018/12/31 23:59
+深夜,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 23:00,2018/11/2 0:59
+从9日至10日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/9 0:00,2018/11/10 23:59
+2013年12月以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2013/11/1 0:00,2018/11/1 12:00
+黄昏时分,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2013/11/1 17:00,2018/11/1 18:59
+每年的11月到第二年,time_period,relative,FALSE,TRUE,2018/11/1 12:00,,
+跨年夜晚上,time_period,relative,FALSE,FALSE,2018/11/1 12:00,,
+白天,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 6:00,2018/11/1 17:59
+2013年7月至8月期间,time_period,absolute,FALSE,FALSE,,2013/7/1 0:00,2018/8/31 23:59
+这个礼拜,time_period,relative,TRUE,FALSE,2018/11/1 12:00,2018/10/29 0:00,2018/11/4 23:59
+下星期,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/5 0:00,2018/11/11 23:59
+每天早上7点到8点半,time_period,relative,FALSE,TRUE,2018/11/1 12:00,,
+这周末,time_period,relative,TRUE,FALSE,2018/11/1 12:00,2018/11/3 0:00,2018/11/4 23:59
+未来两天,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 12:00,2018/11/3 23:59
+凌晨04：00-06：00,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 4:00,2018/11/1 6:00
+夜间10：00-12：00,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 22:00,2018/11/2 0:00
+这礼拜,time_period,relative,TRUE,FALSE,2018/11/1 12:00,2018/10/29 0:00,2018/11/4 23:59
+下周,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/5 0:00,2018/11/11 23:59
+昨天晚上,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/10/31 18:00,2018/10/31 23:59
+每周六晚,time_period,relative,FALSE,TRUE,2018/11/1 12:00,,
+正月初四到初七期间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/4 0:00,2018/1/7 23:59
+春运期间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,,
+1月8日凌晨,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/8 0:00,2018/1/8 5:59
+去年第三季度,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/7/1 0:00,2017/9/30 23:59
+三季度,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/7/1 0:00,2018/9/30 23:59
+未来4年内,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2019/1/1 0:00,2022/12/31 23:59
+从2013年初开始,time_period,absolute,FALSE,FALSE,2018/11/1 12:00,2013/1/1 0:00,2013/1/31 23:59
+1995年至2000年期间,time_period,absolute,FALSE,FALSE,,1995/1/1 0:00,2000/1/31 23:59
+早上,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 4:00,2018/11/1 8:59
+２０１３年度,time_period,absolute,FALSE,FALSE,,2013/1/1 0:00,2013/12/31 23:59
+９日上午,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/9 6:00,2018/11/1 11:59
+本年度,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/12/31 23:59
+10日上午,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/10 6:00,2018/11/10 11:59
+除夕前一周,time_period,relative,FALSE,FALSE,2018/11/1 12:00,,
+从1948年起直至1977年,time_period,absolute,FALSE,FALSE,,1948/1/1 0:00,1977/12/31 23:59
+七月中旬,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/7/11 0:00,2018/7/31 23:59
+这一年里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/12/31 23:59
+半个世纪以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,1968/11/1 12:00,2018/11/1 12:00
+这个季节,time_period,relative,TRUE,FALSE,2018/11/1 12:00,2018/9/15 0:00,2018/12/14 23:59
+去年4季度,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/10/1 0:00,2017/12/31 23:59
+上一季度,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/7/1 0:00,2018/9/30 23:59
+礼拜天中午,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/4 10:00,2018/11/4 13:59
+上周末,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/10/27 0:00,2018/10/28 23:59
+2012年以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2012/1/1 0:00,2018/11/1 12:00
+自去年10月以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/10/1 0:00,2018/11/1 12:00
+5分钟内,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 12:00,2018/11/1 12:05
+周五晚上,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 18:00,2018/11/2 23:59
+周末,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/3 0:00,2018/11/4 23:59
+这周,time_period,relative,TRUE,FALSE,2018/11/1 12:00,2018/10/29 0:00,2018/11/4 23:59
+一年里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/12/31 23:59
+2005年-2013年期间,time_period,absolute,FALSE,FALSE,,2005/1/1 0:00,2013/12/31 23:59
+2014年1月15日-2014年3月29日,time_period,absolute,FALSE,FALSE,,2014/1/15 0:00,2014/3/29 23:59
+1月15日晚间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/15 18:00,2018/1/15 23:59
+2014年1月以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2014/1/1 0:00,2018/11/1 12:00
+3年里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2015/11/1 12:00,2018/11/1 12:00
+上星期,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/10/22 0:00,2018/10/28 23:59
+从早到晚,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 6:00,2018/11/1 23:59
+过年期间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,,
+3月中旬,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/3/11 6:00,2018/3/20 23:59
+半个月里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 12:00,2018/11/16 23:59
+午后,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 12:00,2018/11/1 14:59
+这两个月,time_period,relative,TRUE,FALSE,2018/11/1 12:00,,
+4月至11月之间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/4/1 0:00,2018/11/30 23:59
+每天晚上,time_period,relative,FALSE,TRUE,2018/11/1 12:00,,
+下周末,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/10 0:00,2018/11/11 23:59
+1961年至1962年期间,time_period,absolute,FALSE,FALSE,,1961/1/1 0:00,1962/12/31 23:59
+12月22日晚,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/12/22 18:00,2018/12/22 23:59
+1月16日至1月23日期间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/16 0:00,2008/1/23 23:59
+1月21日下午,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/21 14:00,2008/1/21 17:59
+未来3天,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 0:00,2018/11/4 23:59
+6月12日至7月13日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/16 0:00,2008/1/23 23:59
+5月整个月,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/5/1 0:00,2008/5/31 23:59
+6月整个月,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/6/1 0:00,2008/6/30 23:59
+7月整个月,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/7/1 0:00,2008/7/30 23:59
+2014年1月1日至2014年年底,time_period,absolute,FALSE,FALSE,,2014/1/1 0:00,2014/12/31 23:59
+过去两年里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2016/1/1 0:00,2018/11/1 12:00
+1月20日至2月20日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/20 0:00,2008/2/20 23:59
+明年上半年,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2019/1/1 0:00,2018/5/31 23:59
+过去一年中,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/1/1 0:00,2017/12/31 23:59
+从2014年至2016年,time_period,absolute,FALSE,FALSE,,2014/1/1 0:00,2016/12/31 23:59
+全年,time_period,relative,FALSE,TRUE,2018/11/1 12:00,2018/1/1 0:00,2018/12/31 23:59
+去年下半年以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/7/1 0:00,2018/11/1 12:00
+未来40天中,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 0:00,2018/12/11 23:59
+全年,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/12/31 23:59
+正月里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/1/31 23:59
+去年5月以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/5/1 0:00,2018/11/1 12:00
+一月中旬到一月下旬,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/11 0:00,2018/1/31 23:59
+前两周,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/10/15 0:00,2018/10/28 23:59
+1月中旬,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/11 0:00,2018/1/20 23:59
+同年7月下旬,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/7/11 0:00,2018/7/31 23:59
+下下礼拜,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/12 0:00,2018/11/18 23:59
+下周,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/5 0:00,2018/11/11 23:59
+1月以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/11/1 12:00
+17日清晨,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/17 4:00,2018/11/11 7:59
+45个工作日内,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 0:00,2019/1/3 23:59
+一周内,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 0:00,2018/11/8 23:59
+上周末,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/10/27 0:00,2018/10/28 23:59
+昨天晚上,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/10/31 18:00,2018/10/31 23:59
+去年四季度以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/10/1 0:00,2018/11/1 12:00
+上世纪60年代,time_period,relative,FALSE,FALSE,2018/11/1 12:00,1960/1/1 0:00,1969/12/31 23:59
+未来30年,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2019/1/1 12:00,2048/12/31 23:59
+2001—2005年度,time_period,absolute,FALSE,FALSE,,2001/1/1 0:00,2005/12/31 23:59
+5年内,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 12:00,2023/11/1 12:00
+2013年年底,time_period,absolute,FALSE,FALSE,,2013/12/1 0:00,2013/12/31 23:59
+双休日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/3 0:00,2018/11/4 23:59
+上午9:00至12:00,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 9:00,2018/11/1 12:00
+下午13:30至17:00,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 13:30,2018/11/1 17:00
+未来十年,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2019/1/1 12:00,2028/12/31 23:59
+2013年度,time_period,absolute,FALSE,FALSE,,2013/1/1 0:00,2013/12/31 23:59
+本年度,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/12/31 23:59
+去年10月下旬,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/10/21 0:00,2017/10/31 23:59
+深夜,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 23:00,2018/11/2 0:59
+周二、四全天,time_period,relative,FALSE,FALSE,2018/11/1 12:00,,
+一年里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/12/31 23:59
+凌晨,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 0:00,2018/11/2 5:59
+15个工作日内,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 0:00,2018/11/22 23:59
+一年来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/11/1 12:00,2018/11/1 12:00
+本月上旬中前期,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 0:00,2018/11/5 23:59
+3日—5日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/3 0:00,2018/11/5 23:59
+本月上旬末至中旬初,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/6 0:00,2018/11/10 23:59
+9日—11日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/9 0:00,2018/11/11 23:59
+本月中旬后期至下旬初,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/16 0:00,2018/11/23 23:59
+18日—21日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/18 0:00,2018/11/21 23:59
+1月底至2月初,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/21 0:00,2018/2/10 23:59
+1月30日—2月2日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/30 0:00,2018/2/2 23:59
+去年11月中旬,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/11/11 0:00,2017/11/20 23:59
+每天晚上,time_period,relative,FALSE,TRUE,2018/11/1 12:00,,
+早上,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 4:00,2018/11/1 11:59
+1月9-17日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/9 0:00,2018/1/17 23:59
+2月24日至3月7日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/2/24 0:00,2018/3/7 23:59
+3天里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 0:00,2018/11/4 23:59
+9天里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 0:00,2018/11/10 23:59
+２００９－２０１３年五年间,time_period,absolute,FALSE,FALSE,,2009/1/1 0:00,2013/12/31 23:59
+三年间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2009/1/1 0:00,2011/12/31 23:59
+自1991年以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,1991/1/1 0:00,2018/11/1 12:00
+2013年8月下旬,time_period,absolute,FALSE,FALSE,,2013/8/21 0:00,2013/8/31 23:59
+下午,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 14:00,2018/11/1 17:59
+晚上,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 18:00,2018/11/1 23:59
+春运期间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,,
+2013年下旬,time_period,absolute,FALSE,FALSE,,,
+第二天下午,time_period,relative,FALSE,FALSE,,2018/11/2 14:00,2018/11/2 17:59
+这个双休日,time_period,relative,TRUE,FALSE,2018/11/1 12:00,2018/11/3 14:00,2018/11/4 17:59
+从大年初一到初七,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/1/7 23:59
+白天,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 6:00,2018/11/1 17:59
+未来五年内,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2009/1/1 0:00,2013/12/31 23:59
+上个世纪50年代,time_period,relative,FALSE,FALSE,2018/11/1 12:00,1950/1/1 12:00,1951/12/31 23:59
+上世纪八十年代后期,time_period,absolute,FALSE,FALSE,,1985/1/1 12:00,1980/12/31 23:59
+2014年2月7日至23日,time_period,absolute,FALSE,FALSE,,2014/2/7 0:00,2014/2/23 23:59
+明晚,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 18:00,2018/11/2 23:59
+12月下旬,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/12/21 0:00,2018/12/31 23:59
+年末,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/12/1 0:00,2018/12/31 23:59
+自2000年以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2000/1/1 0:00,2018/11/1 12:00
+未来的半个月里,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/2 0:00,2018/11/16 23:59
+全天,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 0:00,2018/11/1 23:59
+7日全天至8日中午前后,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/7 0:00,2018/11/8 13:59
+2013年10月末,time_period,absolute,FALSE,FALSE,,2013/11/26 0:00,2013/11/30 23:59
+从19日上午开始,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/19 6:00,2018/11/19 11:59
+1月20日至2月16日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/20 0:00,2018/2/16 23:59
+每晚19:00至19:30,time_period,relative,FALSE,TRUE,2018/11/1 12:00,,
+未来四年内,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2009/1/1 0:00,2012/12/31 23:59
+1月18日上午,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/18 6:00,2018/11/18 11:59
+2010年12月底至2011年春节期间,time_period,absolute,FALSE,FALSE,,,
+全年,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/12/31 23:59
+1月以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/11/1 12:00
+去年12月底,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2017/12/21 0:00,2017/12/31 23:59
+从1月16日至2月26日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/16 0:00,2018/2/26 23:59
+大清早,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 6:00,2018/11/1 7:59
+1月31日0：00-1：00,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/31 0:00,2018/1/31 1:00
+2011—2013年间,time_period,absolute,FALSE,FALSE,,2011/1/1 0:00,2013/12/31 23:59
+二十世纪,time_period,absolute,FALSE,FALSE,,1900/1/1 0:00,1999/12/31 23:59
+未来两年内,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2019/1/1 0:00,2020/12/31 23:59
+2011年底,time_period,absolute,FALSE,FALSE,,2011/12/1 0:00,2011/12/31 23:59
+大年三十晚上,time_period,relative,FALSE,FALSE,2018/11/1 12:00,,
+今天中午,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/1 11:00,2018/11/1 13:59
+春节期间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,,
+下一季度,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2019/1/1 0:00,2019/3/31 23:59
+下周,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/5 0:00,2018/11/11 23:59
+11日上午,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/11 6:00,2018/11/11 11:59
+周末,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/3 0:00,2018/11/4 23:59
+13日到18日,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/11/13 0:00,2018/11/18 23:59
+上世纪7、80年代,time_period,relative,FALSE,FALSE,,,
+从2011年5月至2013年底,time_period,absolute,FALSE,FALSE,,2011/5/1 0:00,2013/12/31 23:59
+自2009年以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2009/1/1 0:00,2018/11/1 12:00
+年底,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2011/12/1 0:00,2011/12/31 23:59
+这两天,time_period,relative,TRUE,FALSE,,,
+黑夜,time_period,relative,FALSE,FALSE,,,
+2013年11月底,time_period,absolute,FALSE,FALSE,,2013/11/21 0:00,2013/11/30 23:59
+2013年前11个月,time_period,absolute,FALSE,FALSE,,2013/1/1 0:00,2013/11/30 23:59
+这周末,time_period,relative,TRUE,FALSE,2018/11/1 12:00,2018/11/3 0:00,2018/11/4 23:59
+最近一周,time_period,relative,FALSE,FALSE,,,
+1月中上旬,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/1/20 23:59
+从2012年12月到2013年3月,time_period,absolute,FALSE,FALSE,,2012/12/1 0:00,2013/3/31 23:59
+年初,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/1/1 0:00,2018/1/31 23:59
+每个季度,time_period,relative,FALSE,TRUE,,,
+2013年第四季度,time_period,absolute,FALSE,FALSE,,2013/10/1 0:00,2013/12/31 23:59
+上季度,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/7/1 0:00,2018/9/30 23:59
+从1月17日起至2014年,time_period,relative,FALSE,FALSE,,,
+九月中旬到十二月三号,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2018/9/21 0:00,2018/12/3 23:59
+2013年9月以来,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2013/9/1 0:00,2018/11/1 12:00
+2013年年初,time_period,absolute,FALSE,FALSE,,2013/1/1 0:00,2018/1/31 23:59
+十年间,time_period,relative,FALSE,FALSE,2018/11/1 12:00,2019/1/1 0:00,2028/12/31 23:59
