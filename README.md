@@ -91,3 +91,7 @@
         2）时间点中没有识别到特殊的词语：现在为止，２００６年８月
 
         3）周和季度的识别没有覆盖到一些词语：过去，年和季度
+        
+## 五、错误case存放
+
+### 1.包含了时间点和时间段的错误case（暂时不能处理的case）: [时间点和时间段的badcase](https://docs.qq.com/sheet/DU0R4T0Z0WnZ6U2pP?opendocxfrom=admin&tab=BB08J2)
